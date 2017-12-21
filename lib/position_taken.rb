@@ -1,4 +1,4 @@
 # code your #position_taken? method here!
-def position_taken?(array)
+def position_taken?(array, index)
 
 end
